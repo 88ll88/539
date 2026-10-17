@@ -40,7 +40,7 @@
     Object.assign(btn.style, {
       width: '30px',
       height: '65px',
-      backgroundColor: '#6c6c6c',
+      backgroundColor: '#00000',
       color: '#ffffff',
       fontSize: '12px',
       fontWeight: 'bold',
