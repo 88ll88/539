@@ -11,7 +11,7 @@
     left: '0px',
     top: '0px',
     width: '42px',
-    height: '550px',
+    height: '420px',
     backgroundColor: '#000000',
     color: '#ffffff',
     zIndex: '99999',
