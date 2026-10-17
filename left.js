@@ -53,7 +53,7 @@
       alignItems: 'center',
       justifyContent: 'center',
       boxSizing: 'border-box',
-      transition: 'background-color 0.15s, color 0.15s'
+      transition: 'background-color 0.25s, color 0.25s'
     });
 
     btn.onmousedown = () => (btn.style.backgroundColor = '#444444');
